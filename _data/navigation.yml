@@ -1,0 +1,12 @@
+# main links
+main:
+ - title: "Software"
+   url: /software
+ - title: "Technology"
+   url: /tech
+ - title: "Sports"
+   url: /sports
+ - title: "General"
+   url: /general
+ - title: "About"
+   url: /about/
