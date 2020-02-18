@@ -27,7 +27,7 @@ Everything started out well enough, though in retrospect I downloaded the wrong 
 
 I decided I'd try switching from Xfce to KDE via the software installer tool, figuring if that didn't go well I'd just download the Manjaro KDE version and reinstall.  I won't go into details here because I really didn't _try all that hard_ to make it work... I followed the instructions to install the KDE components, restarted my computer, and got a black screen.  *Oops* that didn't work.  Rather than troubleshoot I just reinstalled the Manjaro KDE version.
 
-I really liked Manjaro with KDE Plasma, it brought back a lot of memories from running KDE back in the day, and was the experience I was looking for.  Unfortunately, somehow after running some updates I ended up with the black screen again after rebooting.  It also felt a little different, based on Arch Linux, and I didn't realize how much I has gotten used to Ubuntu over the years.  So rather than troubleshoot another problem, I decided for now to run an Ubuntu based distro.  I'll give Manjaro another try sometime in the future, but for now I'll go with something a little more familiar.
+I really liked Manjaro with KDE Plasma, it brought back a lot of memories from running KDE back in the day, and was the experience I was looking for.  Unfortunately, somehow after running some updates I ended up with the black screen again after rebooting.  It also felt a little different, based on Arch Linux, and I didn't realize how much I had gotten used to Ubuntu over the years.  So rather than troubleshoot another problem, I decided for now to run an Ubuntu based distro.  I'll give Manjaro another try sometime in the future, but for now I'll go with something a little more familiar.
 
 ## Kubuntu
 
