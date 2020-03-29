@@ -11,7 +11,7 @@ tags:
   - linuxmint
 ---
 
-A brand new computer this year!  Which means dual booting with Linux! :)
+A brand new computer this year!  Which means dual booting with Linux! :smiley:
 
 I haven't had a new personal computer in a while so this is a chance to spend more time in a Linux environment, and there are many options to choose from... I went through a few options before I finally settled on an option (which I'm sure I'll change in no time!)
 
@@ -39,6 +39,6 @@ First thing I did was set up four virtual desktops - this is how I used to use K
 
 Another application I installed, which was installed by default on Manjaro, was [Yakuake][Yakuake].  It's almost irrational how much I love this program - it drops down a terminal window from the top of the screen, allowing you to run shell commands - and you activate it via the F12 key.  What's nice is you can drop the terminal down, run some commands, and then send it away, without having to open a terminal directly or ALT-TAB to the appropriate window.  It's also nice if you have a website open as you can scroll the web page underneath with the terminal dropped down - useful when referring to a blog post or set of instructions online.  It will also open on whichever desktop is current, so you don't have to keep moving back to the desktop with your open terminal window.  It's just so nice! :)
 
-So there it is, for now running Kubuntu, with an eye on running Manjaro when I'm ready to try something new.  Isn't it great how many options there are in the linux ecosystem? :)
+So there it is, for now running Kubuntu, with an eye on running Manjaro when I'm ready to try something new.  Isn't it great how many options there are in the linux ecosystem? :smiley:
 
 [Yakuake]: http://yakuake.kde.org/
