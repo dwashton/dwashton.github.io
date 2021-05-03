@@ -30,7 +30,7 @@ minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ashton's Blog"
+title                    : "Dave Ashton's Blog"
 title_separator          : "-"
 subtitle                 : A collection of arbitrary musings # site tagline that appears below site title in masthead
 name                     : "Dave Ashton"
